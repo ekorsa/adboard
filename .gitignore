@@ -1,0 +1,13 @@
+.idea/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+adboard/adboard/__pycache__/*
+*.py[cod]
+
+adboard/board/__pycache__/*
+*.py[cod]
+
